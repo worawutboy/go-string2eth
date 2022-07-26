@@ -22,7 +22,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/wealdtech/go-string2eth"
+	"github.com/worawutboy/go-string2eth"
 )
 
 func TestWeiToStringWithSmallEtherDecimalValue(t *testing.T) {

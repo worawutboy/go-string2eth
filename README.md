@@ -1,11 +1,11 @@
 # go-string2eth
 
-[![Tag](https://img.shields.io/github/tag/wealdtech/go-string2eth.svg)](https://github.com/wealdtech/go-string2eth/releases/)
-[![License](https://img.shields.io/github/license/wealdtech/go-string2eth.svg)](LICENSE)
-[![GoDoc](https://godoc.org/github.com/wealdtech/go-string2eth?status.svg)](https://godoc.org/github.com/wealdtech/go-string2eth)
-[![Travis CI](https://img.shields.io/travis/wealdtech/go-string2eth.svg)](https://travis-ci.org/wealdtech/go-string2eth)
-[![codecov.io](https://img.shields.io/codecov/c/github/wealdtech/go-string2eth.svg)](https://codecov.io/github/wealdtech/go-string2eth)
-[![Go Report Card](https://goreportcard.com/badge/github.com/wealdtech/go-string2eth)](https://goreportcard.com/report/github.com/wealdtech/go-string2eth)
+[![Tag](https://img.shields.io/github/tag/worawutboy/go-string2eth.svg)](https://github.com/worawutboy/go-string2eth/releases/)
+[![License](https://img.shields.io/github/license/worawutboy/go-string2eth.svg)](LICENSE)
+[![GoDoc](https://godoc.org/github.com/worawutboy/go-string2eth?status.svg)](https://godoc.org/github.com/worawutboy/go-string2eth)
+[![Travis CI](https://img.shields.io/travis/worawutboy/go-string2eth.svg)](https://travis-ci.org/worawutboy/go-string2eth)
+[![codecov.io](https://img.shields.io/codecov/c/github/worawutboy/go-string2eth.svg)](https://codecov.io/github/worawutboy/go-string2eth)
+[![Go Report Card](https://goreportcard.com/badge/github.com/worawutboy/go-string2eth)](https://goreportcard.com/report/github.com/worawutboy/go-string2eth)
 
 Go utility library to convert strings to Ether values and vice versa.
 
@@ -28,7 +28,7 @@ This also provides the ability to convert between string and GWei values.
 `go-string2eth` is a standard Go module which can be installed with:
 
 ```sh
-go get github.com/wealdtech/go-string2eth
+go get github.com/worawutboy/go-string2eth
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ go get github.com/wealdtech/go-string2eth
 package main
 
 import (
-	string2eth "github.com/wealdtech/go-string2eth"
+	string2eth "github.com/worawutboy/go-string2eth"
 )
 
 func main() {
@@ -65,7 +65,7 @@ Jim McDonald: [@mcdee](https://github.com/mcdee).
 
 ## Contribute
 
-Contributions welcome. Please check out [the issues](https://github.com/wealdtech/go-string2eth/issues).
+Contributions welcome. Please check out [the issues](https://github.com/worawutboy/go-string2eth/issues).
 
 ## License
 

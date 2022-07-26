@@ -1,4 +1,4 @@
-module github.com/wealdtech/go-string2eth
+module github.com/worawutboy/go-string2eth
 
 go 1.12
 
